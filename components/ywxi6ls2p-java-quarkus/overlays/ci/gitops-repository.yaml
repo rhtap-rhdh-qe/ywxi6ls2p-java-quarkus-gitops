@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ywxi6ls2p-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ywxi6ls2p-java-quarkus-gitops
